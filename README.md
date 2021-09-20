@@ -8,7 +8,7 @@ Refactor starter code to meet acceptable standards.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://arios10.github.io/horiseon-refactor/
 
 ## Contribution
 Made by Angel Rios
